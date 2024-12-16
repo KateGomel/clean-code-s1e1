@@ -1,4 +1,8 @@
 /* Basic Style */
+.h1 {
+  display: none;
+}
+
 .todo-app {
   background-color: #f8f8f8;
   color: #333;
